@@ -1,0 +1,4 @@
+1. untuk penggunaan routing pada nuxt sudah ada built secara otomatis. bisa dilihat di folder ".nuxt/router.js". tetapi jangan di rubah2
+2. jadi bila ingin membuat page route, ke folder "pages/your_file" lalu buat filenya
+3. dan untuk memanggil tinggal gunakan "<nuxt-link to="your_path"> your_name</nuxt-link>"
+4. untuk tahu path pada your_path , anda bisa lihat di ".nuxt/router.js"  
